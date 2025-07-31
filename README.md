@@ -14,7 +14,7 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to classify music genr
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/genre-classifier-knn.git
+    git clone https://github.com/hereismanan/genre-classifier-knn.git
     cd genre-classifier-knn
     ```
 2.  Install dependencies:
